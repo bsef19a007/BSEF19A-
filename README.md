@@ -1,4 +1,4 @@
-#Git and Github Beginners Tutorial
+##Git and Github Beginners Tutorial
 
 This website will be helpful for beginners
 
