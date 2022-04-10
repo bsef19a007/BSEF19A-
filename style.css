@@ -15,10 +15,10 @@ body{
 
 .bg-white-1{
     background-color: #ffff;
-    width: 1210px;
+    width: 1000px;
     height: 100%;
     margin-top: 70px;
-    margin-left: 70px;
+    margin-left: 170px;
     padding-top: 20px;
     color: rgb(23, 45, 91);
 }
@@ -28,6 +28,6 @@ body{
 }
 
 img{
-    width: 60%;
-    height: 60%;
+    width: 85%;
+    height: 70%;
 }
