@@ -26,3 +26,8 @@ body{
 .content{
     padding: 20px;
 }
+
+.download-git img{
+    width: 70%;
+    height: 60%;
+}
