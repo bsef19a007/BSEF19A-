@@ -1,5 +1,24 @@
 body{
     margin: 0;
+    padding: 0;
     background-image: url("git-bg-img.jpg");
-    background-size: cover;
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-white{
+    background-color: #ffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(23, 45, 91);
+}
+
+.bg-white-1{
+    background-color: #ffff;
+    width: 1100px;
+    height: 1100px;
+    margin-top: 70px;
+    margin-left: 130px;
+    padding-top: 20px;
+    color: rgb(23, 45, 91);
 }
