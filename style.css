@@ -15,10 +15,11 @@ body{
 
 .bg-white-1{
     background-color: #ffff;
-    width: 900px;
+    width: 70%;
     height: 100%;
     margin-top: 70px;
-    margin-left: 200px;
+    margin-left: 180px;
+    margin-right: 180px;
     padding-top: 20px;
     color: rgb(23, 45, 91);
 }
